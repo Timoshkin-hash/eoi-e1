@@ -12,3 +12,9 @@ venv/
 
 # Temporary exports
 *.tmp
+
+# Служебные файлы Jupyter Desktop
+.jupyter/
+
+# Временные файлы Jupyter Notebook
+.ipynb_checkpoints/
