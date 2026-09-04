@@ -1,0 +1,17 @@
+{
+  "task_id": 1,
+  "title": "Оценка экономической эффективности внедрения облачной CRM",
+  "source": "Условие экзаменационной задачи",
+  "as_of_date": "2026-09-02",
+  "sales_managers": 15,
+  "monthly_salary_rub": 120000,
+  "routine_time_share_before": 0.30,
+  "routine_time_reduction": 0.20,
+  "annual_sales_growth": 0.08,
+  "current_annual_turnover_rub": 72000000,
+  "annual_license_per_user_rub": 24000,
+  "adaptation_months": 1,
+  "evaluation_horizon_years": 3,
+  "discount_rate": 0.12,
+  "profit_tax_rate": 0.20
+}
