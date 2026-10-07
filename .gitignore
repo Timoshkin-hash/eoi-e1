@@ -18,3 +18,7 @@ venv/
 
 # Временные файлы Jupyter Notebook
 .ipynb_checkpoints/
+
+# Локальные служебные скрипты проверки Notebook
+build_notebook.py
+verify_notebook.py
